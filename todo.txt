@@ -1,0 +1,5 @@
+-fahrenheit to celsius
+-meters to centimeters
+-hours to minutes
+-degrees to radians
+-feet to inches
